@@ -1469,12 +1469,13 @@
     "8995": {
       "events": {},
       "links": {},
-      "address": "0xc78fdeCC718fF1ccDE0aFcc893e8232192F9e03f",
-      "transactionHash": "0x6d7c0cdf3243a1697a021217c0d46763ecabb3e0dff1196246b82b331e10eb3e"
+      "address": "0xCfDc1281dD600dAF482705094F946A82EF0Ce1a4",
+      "transactionHash": "0xafbb7f0b8653a0e574a990525424ba63c86670edc6630fc4a1b21e9c22b28f58"
     }
   },
   "schemaVersion": "3.3.3",
-  "updatedAt": "2021-03-19T14:34:29.702Z",
+  "updatedAt": "2021-03-19T16:06:56.473Z",
+  "networkType": "ethereum",
   "devdoc": {
     "methods": {}
   },
